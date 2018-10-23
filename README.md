@@ -12,7 +12,7 @@ The demo app runs across three containers:
 
 ![The Wordsmith app running in Kubernetes on Docker for Mac](img/dockercon_EU_17.jpg)
 
-## Build
+## Build test
 
 The only requirement to build and run the app from source is Docker. Clone this repo and use Docker Compose to build all the images:
 
